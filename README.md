@@ -21,5 +21,9 @@ Once you have downloaded the data. Change the file path within the scripts to th
 
 # Plots
 
-!(https://github.com/DataScienceCours/Exploratory-Data-Analysis-Course-Project-2/blob/master/plot1.png)
 ![alt text](https://github.com/DataScienceCours/Exploratory-Data-Analysis-Course-Project-2/blob/master/plot1.png)
+![alt text](https://github.com/DataScienceCours/Exploratory-Data-Analysis-Course-Project-2/blob/master/plot2.png)
+![alt text](https://github.com/DataScienceCours/Exploratory-Data-Analysis-Course-Project-2/blob/master/plot3.png)
+![alt text](https://github.com/DataScienceCours/Exploratory-Data-Analysis-Course-Project-2/blob/master/plot4.png)
+![alt text](https://github.com/DataScienceCours/Exploratory-Data-Analysis-Course-Project-2/blob/master/plot5.png)
+![alt text](https://github.com/DataScienceCours/Exploratory-Data-Analysis-Course-Project-2/blob/master/plot6.png)
