@@ -21,4 +21,4 @@ Once you have downloaded the data. Change the file path within the scripts to th
 
 # Plots
 
-![alt text](E:/Dropbox/Dropbox/Data Science Courses/Data Science Specialization/04 - Exploratory Data Analysis/exdata%2Fdata%2FNEI_data/plot1.png "Logo Title Text 1")
+![alt text](https://github.com/DataScienceCours/Exploratory-Data-Analysis-Course-Project-2/blob/master/plot1.png "Logo Title Text 1")
