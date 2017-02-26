@@ -21,4 +21,4 @@ Once you have downloaded the data. Change the file path within the scripts to th
 
 # Plots
 
-<img src="E:/Dropbox/Dropbox/Data Science Courses/Data Science Specialization/04 - Exploratory Data Analysis/exdata%2Fdata%2FNEI_data/plot1.png" alt="">
+![alt text](E:/Dropbox/Dropbox/Data Science Courses/Data Science Specialization/04 - Exploratory Data Analysis/exdata%2Fdata%2FNEI_data/plot1.png "Logo Title Text 1")
