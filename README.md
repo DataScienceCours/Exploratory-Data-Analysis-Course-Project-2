@@ -21,4 +21,5 @@ Once you have downloaded the data. Change the file path within the scripts to th
 
 # Plots
 
-!(https://github.com/DataScienceCours/Exploratory-Data-Analysis-Course-Project-2/blob/master/plot1.png")
+!(https://github.com/DataScienceCours/Exploratory-Data-Analysis-Course-Project-2/blob/master/plot1.png)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
